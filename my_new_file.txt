@@ -1,0 +1,1 @@
+Jo na moin, ich bin gerade im Tutorial und schreibe mit nano etwas in meine my_new_file.txt
